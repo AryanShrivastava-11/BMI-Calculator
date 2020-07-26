@@ -20,7 +20,7 @@ The App uses a pod "CLTyping Label" from CocoaPods which is an UILabel subclass 
 
 First clone the Repository to your Mac.
 
-Then set the Active Scheme to BMI Calculator as shown in the image below:
+Then set the Active Scheme to BMI Calculator and simulator to iPhone 11(app runs best on iPhone 11 and Xr) as shown in the image below:
 
 
 <img width="373" alt="Screenshot 2020-07-26 at 4 12 04 PM" src="https://user-images.githubusercontent.com/68640721/88477124-2cdee480-cf5b-11ea-8416-420242f285ee.png">
